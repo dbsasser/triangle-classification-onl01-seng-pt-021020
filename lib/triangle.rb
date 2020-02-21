@@ -12,7 +12,7 @@ class Triangle
     @c = c
   end
   
-  def know(triangle)
+  def kind(triangle)
     if @a == @b && @b == @a
       :equilateral
     end
