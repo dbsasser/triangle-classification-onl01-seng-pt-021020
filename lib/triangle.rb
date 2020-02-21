@@ -13,5 +13,7 @@ class Triangle
   end
   
   def know(triangle)
-    if 
+    if @a == @b && @b == @a
+      :equilateral
+    end
 end
