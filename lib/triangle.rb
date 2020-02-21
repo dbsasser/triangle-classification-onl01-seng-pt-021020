@@ -7,4 +7,7 @@ class Triangle
     @b = b 
     @c = c
   end
+  
+  def know(triangle)
+    if 
 end
