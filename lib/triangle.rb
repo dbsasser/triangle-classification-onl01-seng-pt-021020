@@ -16,5 +16,6 @@ class Triangle
     if @a == @b && @b == @a
       :equilateral
     end
+    
   end
 end
